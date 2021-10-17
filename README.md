@@ -1,5 +1,5 @@
 # Hugo-Cloud-Data
-This is a repository containing a Hugo website for Duke University class.
+**This is a repository containing a Hugo website for Duke University class.**
 
 This static Hugo website has been created as part of the specialisation course done on Coursera called: ["Specialisation Building Cloud Computing Solutions at Scale"](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale).
 
