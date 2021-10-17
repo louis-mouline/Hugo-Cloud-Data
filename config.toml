@@ -1,4 +1,5 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Hugo Static Website'
+subtitle = 'Developping a Hugo site which is Continuously Deployed using AWS Code Build.'
 theme = "ananke"
