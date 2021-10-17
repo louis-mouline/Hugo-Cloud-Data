@@ -5,8 +5,4 @@ draft: false
 ---
 
 ### This is the title of my post
-
-My post is going to talk about those points:
-1. Point 1
-2. Point 2
-3. Final Point
+In this post, we will try Continuous Delivery with AWS Code Build.
